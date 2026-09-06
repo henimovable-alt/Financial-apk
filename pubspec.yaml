@@ -1,7 +1,13 @@
 name: business_tracker
-description: Offline-first business inventory, sales and finance tracker for Android.
+description: >-
+  Offline-first business inventory, sales, and finance tracker for Android.
+  Track inventory, manage sales, and monitor finances without internet connectivity.
 publish_to: "none"
 version: 1.0.0+1
+
+homepage: https://github.com/henimovable-alt/Financial-apk
+repository: https://github.com/henimovable-alt/Financial-apk
+issue_tracker: https://github.com/henimovable-alt/Financial-apk/issues
 
 environment:
   sdk: ">=3.4.0 <4.0.0"
